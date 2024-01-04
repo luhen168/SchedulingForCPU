@@ -1,0 +1,6 @@
+5 // line1: Số lượng tiến trình, line2: Dữ liệu tiến trình: arrival và burst
+0 11 
+3 7
+8 19
+13 4
+17 9

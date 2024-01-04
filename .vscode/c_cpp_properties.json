@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/luan1/.platformio/packages/framework-arduinoespressif32/cores/esp32",
+                "C:/Users/luan1/.platformio/packages/framework-espidf/components/esp_common/include",
+                "C:/Users/luan1/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x86"
+        }
+    ],
+    "version": 4
+}
